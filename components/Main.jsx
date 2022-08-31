@@ -9,17 +9,17 @@ const Main = () => {
             <div className="px-4 lg:px-16 flex flex-col lg:flex-row items-center justify-between">
                 <div className="hidden lg:flex lg:flex-col lg:space-y-12 lg:pr-4">
                     <button className="bg-white p-2 rounded-full shadow-md text-slate-800 hover:text-red-700 transition">
-                        <a href="https://github.com/keshavkumar14092001" target="_blank">
+                        <a href="https://github.com/keshavkumar14092001" rel="noreferrer" target="_blank">
                             <FaGithub size={28} />
                         </a>
                     </button>
                     <button className="bg-white p-2 rounded-full shadow-md text-slate-800 hover:text-blue-900 transition">
-                        <a href="https://www.linkedin.com/in/keshav-kumar-6b0789222/" target="_blank">
+                        <a href="https://www.linkedin.com/in/keshav-kumar-6b0789222/" rel="noreferrer" target="_blank">
                             <FaLinkedin size={28} />
                         </a>
                     </button>
                     <button className="bg-white p-2 rounded-full shadow-md text-slate-800 hover:text-orange-600 transition">
-                        <a href="https://kkwebtech.blogspot.com/" target="_blank">
+                        <a href="https://kkwebtech.blogspot.com/" rel="noreferrer" target="_blank">
                             <FaBloggerB size={28} />
                         </a>
                     </button>
@@ -27,17 +27,17 @@ const Main = () => {
                 <div className="md:px-8 lg:px-28">
                     <h3
                         className="text-xl md:text-2xl lg:text-3xl font-semibold text-slate-800  underline decoration-orange-600 decoration-dashed decoration-2 underline-offset-4">
-                        Hi, I'm Keshav Kumar
+                        Hi, I&#39;m Keshav Kumar
                     </h3>
                     <h1
                         className="text-2xl md:text-4xl lg:text-6xl font-bold text-slate-800 font-mono text-left whitespace-nowrap underline decoration-orange-600 decoration-dashed decoration-4 underline-offset-4 mt-4 mb-6">
                         Full Stack Web Developer
                     </h1>
                     <p className="text-sm md:text-base lg:text-lg text-slate-900 font-semibold">
-                        I'm very much an enthusiast of how websites are made. That's why I chose to become a Web developer.
+                        I&#39;m very much an enthusiast of how websites are made. That&#39;s why I chose to become a Web developer.
                         I also know quite a lot about languages like HTML, CSS, JS, Node.js, React.js. Since they are used
                         in full-stack Web development. And, I am fairly new at this, so, ny priority will always be work,
-                        not how much I'm earning.
+                        not how much I&#39;m earning.
                     </p>
                     <button
                         className="mt-9 py-2 px-2 md:px-4 bg-orange-600 text-white rounded-md text-base md:text-xl font-bold font-mono hover:bg-orange-500 shadow-md hover:shadow-lg">
@@ -49,7 +49,7 @@ const Main = () => {
                         className="mt-9 ml-4 py-2 px-2 md:px-4 bg-orange-600 text-white rounded-md text-base md:text-xl font-bold font-mono hover:bg-orange-500 shadow-md hover:shadow-lg">
                         <Link href="/#contact">
                             <a className='flex items-center justify-around'>
-                                <FaPhone /><span className='pl-2'>Let's Talk</span>
+                                <FaPhone /><span className='pl-2'>Let&#39;s Talk</span>
                             </a>
                         </Link>
                     </button>

@@ -8,13 +8,13 @@ const About = () => {
                 </h1>
                 <p className="pt-8 px-2 text-left text-base lg:text-lg font-semibold text-slate-800 md:text-slate-700">
                     I am very much an enthusiastic person on how websites are made and what is the logic behind making
-                    those wonderful websites. That's why I chose to become a web developer, so that I can understand
+                    those wonderful websites. That&#39;s why I chose to become a web developer, so that I can understand
                     that logic and not just understand it, but one day make it with my own hands. I know this field is
                     filled with challenges and this might be a very bumpy road in my career but I also know nothing
                     comes without struggling, and when you get it after struggling for it, then it becomes the greatest
                     weapon in your arsenal. I am a good observer and a fast learner. I also like to work on new topics
                     Which are not in my comfort zone. I can work as a team player, but if the situation demands I can
-                    also work as a group leader. I don't like putting any kind of restriction on myself, that's why I
+                    also work as a group leader. I don&#39;t like putting any kind of restriction on myself, that&#39;s why I
                     like to keep exploring new things and technologies, whenever and however I can. 
                 </p>
             </div>

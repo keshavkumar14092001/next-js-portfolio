@@ -52,7 +52,7 @@ const Footer = () => {
                     <li>
                         <Link href="#contact">
                             <a className="hover:underline hover:underline-offset-4 hover:text-orange-600 transition-all">
-                                Let's Talk
+                                Let&#39;s Talk
                             </a>
                         </Link>
                     </li>
@@ -60,19 +60,19 @@ const Footer = () => {
                 <div className="flex items-center space-x-7 md:space-x-5">
                     <button
                         className="bg-white p-2 rounded-full shadow-md hover:shadow-xl text-slate-800 hover:text-red-700 transition">
-                        <a href="https://github.com/keshavkumar14092001" target="_blank">
+                        <a href="https://github.com/keshavkumar14092001" rel="noreferrer" target="_blank">
                             <FaGithub size={28} />
                         </a>
                     </button>
                     <button
                         className="bg-white p-2 rounded-full shadow-md hover:shadow-xl text-slate-800 hover:text-blue-900 transition">
-                        <a href="https://www.linkedin.com/in/keshav-kumar-6b0789222/" target="_blank">
+                        <a href="https://www.linkedin.com/in/keshav-kumar-6b0789222/" rel="noreferrer" target="_blank">
                             <FaLinkedin size={28} />
                         </a>
                     </button>
                     <button
                         className="bg-white p-2 rounded-full shadow-md hover:shadow-xl text-slate-800 hover:text-orange-600 transition">
-                        <a href="https://kkwebtech.blogspot.com/" target="_blank">
+                        <a href="https://kkwebtech.blogspot.com/" rel="noreferrer" target="_blank">
                             <FaBloggerB size={28} />
                         </a>
                     </button>

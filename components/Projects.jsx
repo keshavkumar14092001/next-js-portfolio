@@ -33,6 +33,7 @@ const Projects = () => {
                                     href="https://weather-forecasting-app-two.vercel.app/"
                                     target={"_blank"}
                                     className="hover:text-orange-600"
+                                    rel="noreferrer"
                                 >
                                     Click here
                                 </a>
@@ -51,6 +52,7 @@ const Projects = () => {
                                     href="https://merapizza.herokuapp.com/"
                                     target={"_blank"}
                                     className="hover:text-orange-600"
+                                    rel="noreferrer"
                                 >
                                     Click here
                                 </a>
@@ -72,6 +74,7 @@ const Projects = () => {
                                     href="https://msgsender-app.herokuapp.com/"
                                     target={"_blank"}
                                     className="hover:text-orange-600 transition"
+                                    rel="noreferrer"
                                 >
                                     Click here
                                 </a>
@@ -90,6 +93,7 @@ const Projects = () => {
                                     href="https://beware-of-snake.netlify.app"
                                     target={"_blank"}
                                     className="hover:text-orange-600 transition"
+                                    rel="noreferrer"
                                 >
                                     Click here
                                 </a>
@@ -108,6 +112,7 @@ const Projects = () => {
                                     href="https://meratictactoe.netlify.app"
                                     target={"_blank"}
                                     className="hover:text-orange-600 transition"
+                                    rel="noreferrer"
                                 >
                                     Click here
                                 </a>
@@ -127,6 +132,7 @@ const Projects = () => {
                                     href="https://my-new-music-player.netlify.app"
                                     target={"_blank"}
                                     className="hover:text-orange-600 transition"
+                                    rel="noreferrer"
                                 >
                                     Click here
                                 </a>
@@ -139,20 +145,21 @@ const Projects = () => {
                         <tr className="bg-gray-200">
                             <td className="text-sm text-slate-700 font-bold font-mono p-3 whitespace-nowrap">7</td>
                             <td className="text-sm text-slate-800 font-bold font-mono p-3 whitespace-nowrap">
-                                To/Do's App
+                                To/Do&#39;s App
                             </td>
                             <td className="text-sm text-slate-700 font-bold font-mono p-3 whitespace-nowrap">
                                 <a
                                     href="https://merato-do-s-app.netlify.app"
                                     target={"_blank"}
                                     className="hover:text-orange-600 transition"
+                                    rel="noreferrer"
                                 >
                                     Click here
                                 </a>
                             </td>
                             <td className="text-sm text-slate-700 font-bold font-mono p-3 whitespace-nowrap">
 
-                                It is a modern To/Do's app with an animation effect and has a Delete functionality in
+                                It is a modern To/Do&#39;s app with an animation effect and has a Delete functionality in
                                 it. It is made with HTML, CSS, and Javascript as frontend.
 
                             </td>
@@ -167,6 +174,7 @@ const Projects = () => {
                                     href="https://findweight.netlify.app"
                                     target={"_blank"}
                                     className="hover:text-orange-600 transition"
+                                    rel="noreferrer"
                                 >
                                     Click here
                                 </a>
@@ -188,6 +196,7 @@ const Projects = () => {
                                     href="https://my-book-app-list.netlify.app"
                                     target={"_blank"}
                                     className="hover:text-orange-600 transition"
+                                    rel="noreferrer"
                                 >
                                     Click here
                                 </a>
@@ -209,6 +218,7 @@ const Projects = () => {
                                     href="https://login-signup-container.netlify.app"
                                     target={"_blank"}
                                     className="hover:text-orange-600 transition"
+                                    rel="noreferrer"
                                 >
                                     Click here
                                 </a>
@@ -230,6 +240,7 @@ const Projects = () => {
                                     href="https://boltcli.netlify.app"
                                     target={"_blank"}
                                     className="hover:text-orange-600 transition"
+                                    rel="noreferrer"
                                 >
                                     Click here
                                 </a>
@@ -252,12 +263,13 @@ const Projects = () => {
                                     href="https://microsoft-front-page-clone-app.netlify.app"
                                     target={"_blank"}
                                     className="hover:text-orange-600 transition"
+                                    rel="noreferrer"
                                 >
                                     Click here
                                 </a>
                             </td>
                             <td className="p-3 text-sm font-bold font-mono text-slate-700 whitespace-nowrap">
-                                It is a front-page clone of Microsoft's official website made by using HTML, CSS, and
+                                It is a front-page clone of Microsoft&#39;s official website made by using HTML, CSS, and
                                 Javascript. It is responsive so it can be viewed on any device without any issue but
                                 keep in mind that this is just a frontend hence no buttons will work after clicking, it is just
                                 a frontend design.
@@ -273,12 +285,13 @@ const Projects = () => {
                                     href="https://hulu-front-page-clone.netlify.app"
                                     target={"_blank"}
                                     className="hover:text-orange-600 transition"
+                                    rel="noreferrer"
                                 >
                                     Click here
                                 </a>
                             </td>
                             <td className="text-sm p-3 font-mono font-bold text-slate-700 whitespace-nowrap">
-                                It is a front-page clone of Hulu's official website made by using HTML, CSS, and
+                                It is a front-page clone of Hulu&#39;s official website made by using HTML, CSS, and
                                 Javascript.It is responsive so it can be viewed on any device without any issue but keep in
                                 mind that this is just a frontend hence no buttons will work after clicking, it is just a
                                 frontend design.
@@ -294,6 +307,7 @@ const Projects = () => {
                                     href="https://4thclone-kk.netlify.app"
                                     target={"_blank"}
                                     className="hover:text-orange-600 transition"
+                                    rel="noreferrer"
                                 >
                                     Click here
                                 </a>

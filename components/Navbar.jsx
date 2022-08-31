@@ -91,7 +91,7 @@ const Navbar = () => {
                             <Link href="/#contact">
                                 <a
                                     className="lg:inline-flex lg:w-auto px-3 py-4 lg:py-2 rounded text-gray-100 text-xl font-sans hover:bg-gray-900 hover:text-orange-500 transition-all">
-                                    Let's Talk
+                                    Let&#39;s Talk
                                 </a>
                             </Link>
                         </li>

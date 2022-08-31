@@ -8,7 +8,7 @@ const Contact = () => {
                 <div className="contactContainer py-[5.5rem] w-[85%] mx-auto">
                     <h1
                         className="text-white font-mono text-4xl md:text-6xl font-semibold text-center py-5 underline decoration-orange-600 decoration-dashed decoration-4 underline-offset-8">
-                        Let's Talk!
+                        Let&#39;s Talk!
                     </h1>
                     <h3
                         className="text-center text-white font-semibold font-mono text-lg md:text-2xl py-5 underline decoration-orange-600 decoration-dashed decoration-2 underline-offset-4">
