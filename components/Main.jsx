@@ -41,7 +41,7 @@ const Main = () => {
                     </p>
                     <button
                         className="mt-9 py-2 px-2 md:px-4 bg-orange-600 text-white rounded-md text-base md:text-xl font-bold font-mono hover:bg-orange-500 shadow-md hover:shadow-lg">
-                        <a href="/img/Keshav_Kumar_Resume.pdf" className='flex items-center justify-around' download>
+                        <a href="/Keshav_Kumar_Resume.pdf" className='flex items-center justify-around' download>
                             <FaDownload /><span className='pl-2'>Download CV</span>
                         </a>
                     </button>
