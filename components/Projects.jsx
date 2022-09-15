@@ -45,6 +45,25 @@ const Projects = () => {
                         <tr className="bg-gray-100">
                             <td className="p-3 text-sm text-slate-700 font-mono font-bold whitespace-nowrap">2</td>
                             <td className="p-3 text-sm text-slate-800 font-mono font-bold whitespace-nowrap">
+                                Todo&#39;s App
+                            </td>
+                            <td className="p-3 text-sm text-slate-700 font-mono font-bold whitespace-nowrap">
+                                <a
+                                    href="https://nextjs-todo-app-eight.vercel.app/"
+                                    target={"_blank"}
+                                    className="hover:text-orange-600"
+                                    rel="noreferrer"
+                                >
+                                    Click here
+                                </a>
+                            </td>
+                            <td className="p-3 text-sm text-slate-700 font-bold font-mono whitespace-nowrap">
+                                It is a responsive todo app made by using Next JS and Tailwind CSS. Here all the Firebase has been used for the cloud storage.
+                            </td>
+                        </tr>
+                        <tr className="bg-gray-100">
+                            <td className="p-3 text-sm text-slate-700 font-mono font-bold whitespace-nowrap">2</td>
+                            <td className="p-3 text-sm text-slate-800 font-mono font-bold whitespace-nowrap">
                                 Pizza App
                             </td>
                             <td className="p-3 text-sm text-slate-700 font-mono font-bold whitespace-nowrap">
