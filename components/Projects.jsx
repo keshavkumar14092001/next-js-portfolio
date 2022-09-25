@@ -42,7 +42,7 @@ const Projects = () => {
                                 It is a weather forecasting app with additional features like wind speed, humidity, sun rise and set time and more. It is built using Tailwind CSS and Next JS.
                             </td>
                         </tr>
-                        <tr className="bg-gray-100">
+                        <tr className="bg-gray-200">
                             <td className="p-3 text-sm text-slate-700 font-mono font-bold whitespace-nowrap">2</td>
                             <td className="p-3 text-sm text-slate-800 font-mono font-bold whitespace-nowrap">
                                 Todo&#39;s App
@@ -205,7 +205,7 @@ const Projects = () => {
 
                             </td>
                         </tr>
-                        <tr className="bg-gray-100">
+                        <tr className="bg-gray-200">
                             <td className="p-3 text-slate-700 font-mono font-bold text-sm whitespace-nowrap">10</td>
                             <td className="p-3 text-slate-800 font-mono font-bold text-sm whitespace-nowrap">
                                 Book list app
