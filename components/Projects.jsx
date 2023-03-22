@@ -64,11 +64,11 @@ const Projects = () => {
                         <tr className="bg-gray-100">
                             <td className="p-3 text-sm text-slate-700 font-mono font-bold whitespace-nowrap">3</td>
                             <td className="p-3 text-sm text-slate-800 font-mono font-bold whitespace-nowrap">
-                                Pizza App
+                                Crypto App
                             </td>
                             <td className="p-3 text-sm text-slate-700 font-mono font-bold whitespace-nowrap">
                                 <a
-                                    href="https://merapizza.herokuapp.com/"
+                                    href="https://crypto-app-my-version.vercel.app/"
                                     target={"_blank"}
                                     className="hover:text-orange-600"
                                     rel="noreferrer"
@@ -77,33 +77,11 @@ const Projects = () => {
                                 </a>
                             </td>
                             <td className="p-3 text-sm text-slate-700 font-bold font-mono whitespace-nowrap">
-                                It is a pizza app with all kinds of features available that should be available in any
-                                modern pizza app. It was made by using pure HTML, CSS, and Javascript as a frontend and
-                                using Node.js and express.js as a backend. It is also responsive so there will be no
-                                issue if someone wants to operate this app from mobile.
-                            </td>
-                        </tr>
-                        <tr className="bg-gray-200">
-                            <td className="text-sm p-3 text-slate-700 font-mono font-bold whitespace-nowrap">4</td>
-                            <td className="text-sm p-3 text-slate-800 font-mono font-bold whitespace-nowrap">
-                                Chatting App
-                            </td>
-                            <td className="text-sm p-3 text-slate-700 font-mono font-bold whitespace-nowrap">
-                                <a
-                                    href="https://msgsender-app.herokuapp.com/"
-                                    target={"_blank"}
-                                    className="hover:text-orange-600 transition"
-                                    rel="noreferrer"
-                                >
-                                    Click here
-                                </a>
-                            </td>
-                            <td className="text-sm p-3 text-slate-700 font-mono font-bold whitespace-nowrap">
-                                It is a chatting app that allows multiple users to join and chat at the same time and it is also responsive so you can also chat on mobile. It is made with the help of socket.io which allows real-time communication without refreshing any page. I used HTML, CSS, and Javascript as frontend and node.js, express.js as backend.
+                                It is a responsive crypto app that has been made by using React JS as frontend Framework and Tailwind CSS as CSS framework. It gives you the latest update about current Crypto market.
                             </td>
                         </tr>
                         <tr className="bg-gray-100">
-                            <td className="text-sm p-3 text-slate-700 font-mono font-bold whitespace-nowrap">5</td>
+                            <td className="text-sm p-3 text-slate-700 font-mono font-bold whitespace-nowrap">4</td>
                             <td className="text-sm p-3 text-slate-800 font-bold font-mono whitespace-nowrap">
                                 Snake Game
                             </td>
@@ -122,7 +100,7 @@ const Projects = () => {
                             </td>
                         </tr>
                         <tr className="bg-gray-200">
-                            <td className="text-sm text-slate-700 p-3 font-mono font-bold whitespace-nowrap">6</td>
+                            <td className="text-sm text-slate-700 p-3 font-mono font-bold whitespace-nowrap">5</td>
                             <td className="text-sm text-slate-800 p-3 font-mono font-bold whitespace-nowrap">
                                 Tic-Tac-Toe
                             </td>
@@ -142,7 +120,7 @@ const Projects = () => {
                             </td>
                         </tr>
                         <tr className="bg-gray-100">
-                            <td className="text-sm text-slate-700 p-3 font-mono font-bold whitespace-nowrap">7</td>
+                            <td className="text-sm text-slate-700 p-3 font-mono font-bold whitespace-nowrap">6</td>
                             <td className="text-sm text-slate-800 p-3 font-mono font-bold whitespace-nowrap">
                                 Musicplayer
                             </td>
@@ -162,7 +140,7 @@ const Projects = () => {
                             </td>
                         </tr>
                         <tr className="bg-gray-200">
-                            <td className="text-sm text-slate-700 font-bold font-mono p-3 whitespace-nowrap">8</td>
+                            <td className="text-sm text-slate-700 font-bold font-mono p-3 whitespace-nowrap">7</td>
                             <td className="text-sm text-slate-800 font-bold font-mono p-3 whitespace-nowrap">
                                 To/Do&#39;s App
                             </td>
@@ -184,7 +162,7 @@ const Projects = () => {
                             </td>
                         </tr>
                         <tr className="bg-gray-100">
-                            <td className="p-3 text-slate-700 font-mono font-bold text-sm whitespace-nowrap">9</td>
+                            <td className="p-3 text-slate-700 font-mono font-bold text-sm whitespace-nowrap">8</td>
                             <td className="p-3 text-slate-800 font-mono font-bold text-sm whitespace-nowrap">
                                 Weight Converter
                             </td>
@@ -206,7 +184,7 @@ const Projects = () => {
                             </td>
                         </tr>
                         <tr className="bg-gray-200">
-                            <td className="p-3 text-slate-700 font-mono font-bold text-sm whitespace-nowrap">10</td>
+                            <td className="p-3 text-slate-700 font-mono font-bold text-sm whitespace-nowrap">9</td>
                             <td className="p-3 text-slate-800 font-mono font-bold text-sm whitespace-nowrap">
                                 Book list app
                             </td>
@@ -228,7 +206,7 @@ const Projects = () => {
                             </td>
                         </tr>
                         <tr className="bg-gray-100">
-                            <td className="p-3 text-slate-700 font-mono font-bold text-sm whitespace-nowrap">11</td>
+                            <td className="p-3 text-slate-700 font-mono font-bold text-sm whitespace-nowrap">10</td>
                             <td className="p-3 text-slate-800 font-mono font-bold text-sm whitespace-nowrap">
                                 Login Signup container
                             </td>
@@ -250,7 +228,7 @@ const Projects = () => {
                             </td>
                         </tr>
                         <tr className="bg-gray-200">
-                            <td className="text-sm text-slate-700 font-bold font-mono p-3 whitespace-nowrap">12</td>
+                            <td className="text-sm text-slate-700 font-bold font-mono p-3 whitespace-nowrap">11</td>
                             <td className="text-sm text-slate-800 font-bold font-mono p-3 whitespace-nowrap">
                                 Dummy Website
                             </td>
@@ -273,7 +251,7 @@ const Projects = () => {
                             </td>
                         </tr>
                         <tr className="bg-gray-100">
-                            <td className="p-3 text-sm font-bold font-mono text-slate-700 whitespace-nowrap">13</td>
+                            <td className="p-3 text-sm font-bold font-mono text-slate-700 whitespace-nowrap">12</td>
                             <td className="p-3 text-sm font-bold font-mono text-slate-800 whitespace-nowrap">
                                 Microsoft Clone
                             </td>
@@ -295,7 +273,7 @@ const Projects = () => {
                             </td>
                         </tr>
                         <tr className="bg-gray-200">
-                            <td className="text-sm p-3 font-mono font-bold text-slate-700 whitespace-nowrap">14</td>
+                            <td className="text-sm p-3 font-mono font-bold text-slate-700 whitespace-nowrap">13</td>
                             <td className="text-sm p-3 font-mono font-bold text-slate-800 whitespace-nowrap">
                                 Hulu Clone
                             </td>
@@ -317,7 +295,7 @@ const Projects = () => {
                             </td>
                         </tr>
                         <tr className="bg-gray-100">
-                            <td className="text-sm p-3 font-mono font-bold text-slate-700 whitespace-nowrap">15</td>
+                            <td className="text-sm p-3 font-mono font-bold text-slate-700 whitespace-nowrap">14</td>
                             <td className="text-sm p-3 font-mono font-bold text-slate-800 whitespace-nowrap">
                                 Facebook login clone
                             </td>
