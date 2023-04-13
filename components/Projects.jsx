@@ -39,17 +39,17 @@ const Projects = () => {
                                 </a>
                             </td>
                             <td className="p-3 text-sm text-slate-700 font-bold font-mono whitespace-nowrap">
-                                It is a weather forecasting app with additional features like wind speed, humidity, sun rise and set time and more. It is built using Tailwind CSS and Next JS.
+                                This is a sophisticated weather forecasting application that incorporates an array of advanced features such as wind speed, humidity, and sun rise and set times, among others. Developed using cutting-edge technologies, including Tailwind CSS and Next JS, this app is designed to provide a seamless and intuitive user experience.
                             </td>
                         </tr>
                         <tr className="bg-gray-200">
                             <td className="p-3 text-sm text-slate-700 font-mono font-bold whitespace-nowrap">2</td>
                             <td className="p-3 text-sm text-slate-800 font-mono font-bold whitespace-nowrap">
-                                Todo&#39;s App
+                                Travel Diaries
                             </td>
                             <td className="p-3 text-sm text-slate-700 font-mono font-bold whitespace-nowrap">
                                 <a
-                                    href="https://nextjs-todo-app-eight.vercel.app/"
+                                    href="https://travel-diaries-frontend.vercel.app/"
                                     target={"_blank"}
                                     className="hover:text-orange-600"
                                     rel="noreferrer"
@@ -58,7 +58,7 @@ const Projects = () => {
                                 </a>
                             </td>
                             <td className="p-3 text-sm text-slate-700 font-bold font-mono whitespace-nowrap">
-                                It is a responsive todo app made by using Next JS and Tailwind CSS. Here all the Firebase has been used for the cloud storage.
+                                This is a full-fledged MERN Stack application that incorporates Tailwind CSS as a robust CSS framework and is fully optimised for responsiveness across all devices. Its primary functionality includes enabling users to create and share their unique travel experiences while also accessing those of others.
                             </td>
                         </tr>
                         <tr className="bg-gray-100">
@@ -77,7 +77,7 @@ const Projects = () => {
                                 </a>
                             </td>
                             <td className="p-3 text-sm text-slate-700 font-bold font-mono whitespace-nowrap">
-                                It is a responsive crypto app that has been made by using React JS as frontend Framework and Tailwind CSS as CSS framework. It gives you the latest update about current Crypto market.
+                                This is a highly responsive cryptocurrency application developed with React JS as the front-end framework and Tailwind CSS as the CSS framework. The app delivers real-time updates on the current state of the cryptocurrency market, providing users with the latest information and trends.
                             </td>
                         </tr>
                         <tr className="bg-gray-200">
