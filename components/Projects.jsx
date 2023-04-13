@@ -80,7 +80,7 @@ const Projects = () => {
                                 It is a responsive crypto app that has been made by using React JS as frontend Framework and Tailwind CSS as CSS framework. It gives you the latest update about current Crypto market.
                             </td>
                         </tr>
-                        <tr className="bg-gray-100">
+                        <tr className="bg-gray-200">
                             <td className="text-sm p-3 text-slate-700 font-mono font-bold whitespace-nowrap">4</td>
                             <td className="text-sm p-3 text-slate-800 font-bold font-mono whitespace-nowrap">
                                 Snake Game
@@ -99,7 +99,7 @@ const Projects = () => {
                                 It is a PC/Laptop snake game with high score functionality that gets updated in real-time and also has a bit of sound effect. It was made with HTML, CSS, and Javascript as frontend.
                             </td>
                         </tr>
-                        <tr className="bg-gray-200">
+                        <tr className="bg-gray-100">
                             <td className="text-sm text-slate-700 p-3 font-mono font-bold whitespace-nowrap">5</td>
                             <td className="text-sm text-slate-800 p-3 font-mono font-bold whitespace-nowrap">
                                 Tic-Tac-Toe
@@ -119,7 +119,7 @@ const Projects = () => {
                                 Javascript as frontend. It is responsive so anyone can play on any device with a little bit of sound effect.
                             </td>
                         </tr>
-                        <tr className="bg-gray-100">
+                        <tr className="bg-gray-200">
                             <td className="text-sm text-slate-700 p-3 font-mono font-bold whitespace-nowrap">6</td>
                             <td className="text-sm text-slate-800 p-3 font-mono font-bold whitespace-nowrap">
                                 Musicplayer
@@ -139,7 +139,7 @@ const Projects = () => {
                                 It is a PC/Laptop Musicplayer app made with the help of the latest HTML5 audio functionality. It has play/pause, perv/next, and progress bar functionality with a bit of animation effect. It is made with the help of HTML, CSS, and Javascript as frontend.
                             </td>
                         </tr>
-                        <tr className="bg-gray-200">
+                        <tr className="bg-gray-100">
                             <td className="text-sm text-slate-700 font-bold font-mono p-3 whitespace-nowrap">7</td>
                             <td className="text-sm text-slate-800 font-bold font-mono p-3 whitespace-nowrap">
                                 To/Do&#39;s App
@@ -161,7 +161,7 @@ const Projects = () => {
 
                             </td>
                         </tr>
-                        <tr className="bg-gray-100">
+                        <tr className="bg-gray-200">
                             <td className="p-3 text-slate-700 font-mono font-bold text-sm whitespace-nowrap">8</td>
                             <td className="p-3 text-slate-800 font-mono font-bold text-sm whitespace-nowrap">
                                 Weight Converter
@@ -183,7 +183,7 @@ const Projects = () => {
 
                             </td>
                         </tr>
-                        <tr className="bg-gray-200">
+                        <tr className="bg-gray-100">
                             <td className="p-3 text-slate-700 font-mono font-bold text-sm whitespace-nowrap">9</td>
                             <td className="p-3 text-slate-800 font-mono font-bold text-sm whitespace-nowrap">
                                 Book list app
@@ -205,7 +205,7 @@ const Projects = () => {
 
                             </td>
                         </tr>
-                        <tr className="bg-gray-100">
+                        <tr className="bg-gray-200">
                             <td className="p-3 text-slate-700 font-mono font-bold text-sm whitespace-nowrap">10</td>
                             <td className="p-3 text-slate-800 font-mono font-bold text-sm whitespace-nowrap">
                                 Login Signup container
@@ -227,7 +227,7 @@ const Projects = () => {
 
                             </td>
                         </tr>
-                        <tr className="bg-gray-200">
+                        <tr className="bg-gray-100">
                             <td className="text-sm text-slate-700 font-bold font-mono p-3 whitespace-nowrap">11</td>
                             <td className="text-sm text-slate-800 font-bold font-mono p-3 whitespace-nowrap">
                                 Dummy Website
@@ -250,7 +250,7 @@ const Projects = () => {
 
                             </td>
                         </tr>
-                        <tr className="bg-gray-100">
+                        <tr className="bg-gray-200">
                             <td className="p-3 text-sm font-bold font-mono text-slate-700 whitespace-nowrap">12</td>
                             <td className="p-3 text-sm font-bold font-mono text-slate-800 whitespace-nowrap">
                                 Microsoft Clone
@@ -272,7 +272,7 @@ const Projects = () => {
                                 a frontend design.
                             </td>
                         </tr>
-                        <tr className="bg-gray-200">
+                        <tr className="bg-gray-100">
                             <td className="text-sm p-3 font-mono font-bold text-slate-700 whitespace-nowrap">13</td>
                             <td className="text-sm p-3 font-mono font-bold text-slate-800 whitespace-nowrap">
                                 Hulu Clone
@@ -294,7 +294,7 @@ const Projects = () => {
                                 frontend design.
                             </td>
                         </tr>
-                        <tr className="bg-gray-100">
+                        <tr className="bg-gray-200">
                             <td className="text-sm p-3 font-mono font-bold text-slate-700 whitespace-nowrap">14</td>
                             <td className="text-sm p-3 font-mono font-bold text-slate-800 whitespace-nowrap">
                                 Facebook login clone
