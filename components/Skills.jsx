@@ -79,9 +79,9 @@ const Skills = () => {
                             </h4>
                             <div className="w-[100%] flex items-center">
                                 <div className="w-[100%] h-[1rem] bg-orange-300 rounded-md shadow-lg">
-                                    <div className="h-[100%] w-[50%] bg-orange-600 rounded-md"></div>
+                                    <div className="h-[100%] w-[65%] bg-orange-600 rounded-md"></div>
                                 </div>
-                                <h5 className="pl-4 text-xl font-bold font-mono text-slate-800">50%</h5>
+                                <h5 className="pl-4 text-xl font-bold font-mono text-slate-800">65%</h5>
                             </div>
                         </div>
                         <div
@@ -91,9 +91,9 @@ const Skills = () => {
                             </h4>
                             <div className="w-[100%] flex items-center">
                                 <div className="w-[100%] h-[1rem] bg-orange-300 rounded-md shadow-lg">
-                                    <div className="h-[100%] w-[65%] bg-orange-600 rounded-md"></div>
+                                    <div className="h-[100%] w-[50%] bg-orange-600 rounded-md"></div>
                                 </div>
-                                <h5 className="pl-4 text-xl font-bold font-mono text-slate-800">65%</h5>
+                                <h5 className="pl-4 text-xl font-bold font-mono text-slate-800">50%</h5>
                             </div>
                         </div>
                         <div
@@ -115,9 +115,9 @@ const Skills = () => {
                             </h4>
                             <div className="w-[100%] flex items-center">
                                 <div className="w-[100%] h-[1rem] bg-orange-300 rounded-md shadow-lg">
-                                    <div className="h-[100%] w-[80%] bg-orange-600 rounded-md"></div>
+                                    <div className="h-[100%] w-[60%] bg-orange-600 rounded-md"></div>
                                 </div>
-                                <h5 className="pl-4 text-xl font-bold font-mono text-slate-800">80%</h5>
+                                <h5 className="pl-4 text-xl font-bold font-mono text-slate-800">60%</h5>
                             </div>
                         </div>
                     </div>
@@ -139,9 +139,9 @@ const Skills = () => {
                             </h4>
                             <div className="w-[100%] flex items-center">
                                 <div className="w-[100%] h-[1rem] bg-orange-300 rounded-md shadow-lg">
-                                    <div className="h-[100%] w-[70%] bg-orange-600 rounded-md"></div>
+                                    <div className="h-[100%] w-[60%] bg-orange-600 rounded-md"></div>
                                 </div>
-                                <h5 className="pl-4 text-xl font-bold font-mono text-slate-800">70%</h5>
+                                <h5 className="pl-4 text-xl font-bold font-mono text-slate-800">60%</h5>
                             </div>
                         </div>
                         <div
@@ -151,9 +151,9 @@ const Skills = () => {
                             </h4>
                             <div className="w-[100%] flex items-center">
                                 <div className="w-[100%] h-[1rem] bg-orange-300 rounded-md shadow-lg">
-                                    <div className="h-[100%] w-[75%] bg-orange-600 rounded-md"></div>
+                                    <div className="h-[100%] w-[70%] bg-orange-600 rounded-md"></div>
                                 </div>
-                                <h5 className="pl-4 text-xl font-bold font-mono text-slate-800">75%</h5>
+                                <h5 className="pl-4 text-xl font-bold font-mono text-slate-800">70%</h5>
                             </div>
                         </div>
                         <div
@@ -163,9 +163,9 @@ const Skills = () => {
                             </h4>
                             <div className="w-[100%] flex items-center">
                                 <div className="w-[100%] h-[1rem] bg-orange-300 rounded-md shadow-lg">
-                                    <div className="h-[100%] w-[70%] bg-orange-600 rounded-md"></div>
+                                    <div className="h-[100%] w-[50%] bg-orange-600 rounded-md"></div>
                                 </div>
-                                <h5 className="pl-4 text-xl font-bold font-mono text-slate-800">70%</h5>
+                                <h5 className="pl-4 text-xl font-bold font-mono text-slate-800">50%</h5>
                             </div>
                         </div>
                     </div>
@@ -211,9 +211,9 @@ const Skills = () => {
                             </h4>
                             <div className="w-[100%] flex items-center">
                                 <div className="w-[100%] h-[1rem] bg-orange-300 rounded-md shadow-lg">
-                                    <div className="h-[100%] w-[50%] bg-orange-600 rounded-md"></div>
+                                    <div className="h-[100%] w-[40%] bg-orange-600 rounded-md"></div>
                                 </div>
-                                <h5 className="pl-4 text-xl font-bold font-mono text-slate-800">50%</h5>
+                                <h5 className="pl-4 text-xl font-bold font-mono text-slate-800">40%</h5>
                             </div>
                         </div>
                     </div>
